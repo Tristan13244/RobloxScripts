@@ -16,8 +16,8 @@ speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Climbing,false
 		speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Swimming,false)
 		speaker.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Swimming)
 	end
--- script to disable it
 
+-- script to disable it
 speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Climbing,true)
 		speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown,true)
 		speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Flying,true)
