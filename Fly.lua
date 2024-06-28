@@ -1,5 +1,4 @@
 -- not tested pls dont ask me why it dont work if it dont work
-]]
 speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Climbing,false)
 		speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.FallingDown,false)
 		speaker.Character.Humanoid:SetStateEnabled(Enum.HumanoidStateType.Flying,false)
